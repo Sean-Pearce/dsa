@@ -15,3 +15,5 @@
 # vendor/
 
 .idea/
+hello.go
+hello_test.go
